@@ -1,0 +1,11 @@
+name: ${project.name}
+description: ${project.description}
+version: ${project.version}
+author: James Richardson (grandwazir)
+website: ${project.url}
+main: name.richardson.james.bukkit.votifieritems.VotifierItemsPlugin
+depend: [Votifier]
+commands:
+  vi:
+    description: 'Votifier root command'
+    usage: '/vi'
