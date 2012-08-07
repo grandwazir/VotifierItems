@@ -58,6 +58,7 @@ public final class PlayerListener implements Listener {
     final String playerName = event.getPlayer().getName();
     if (!this.offlinePlayerItems.containsKey(playerName)) return;
     this.awardItems(event.getPlayer(), this.offlinePlayerItems.get(playerName));
+    this.offlinePlayerItems.remove(playerName);
   }
   
   private void awardItems(Player player, ItemStack[] items) {
