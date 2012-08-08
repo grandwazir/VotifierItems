@@ -7,7 +7,7 @@
   </parent>
   <groupId>name.richardson.james.bukkit</groupId>
   <artifactId>votifier-items</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1-SNAPSHOT</version>
   <name>VotifierItems</name>
   <description>Grant items to players when they vote using Votifier</description>
 
