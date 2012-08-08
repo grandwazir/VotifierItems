@@ -7,7 +7,7 @@
   </parent>
   <groupId>name.richardson.james.bukkit</groupId>
   <artifactId>votifier-items</artifactId>
-  <version>1.0.0-SNAPSHOT</version>
+  <version>1.0.0</version>
   <name>VotifierItems</name>
   <description>Grant items to players when they vote using Votifier</description>
 
@@ -15,7 +15,7 @@
      <dependency>
            <groupId>name.richardson.james.bukkit</groupId>
            <artifactId>bukkit-utilities</artifactId>
-           <version>4.1.0-SNAPSHOT</version>
+           <version>4.1.0</version>
      </dependency>
      <dependency>
            <groupId>com.vexsoftware</groupId>
