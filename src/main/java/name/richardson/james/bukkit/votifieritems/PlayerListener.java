@@ -47,7 +47,6 @@ public final class PlayerListener implements Listener {
     // if the player is online award them the items now
     if (player != null) {
       this.awardItems(player, items);
-    // if they are offline keep the items until they login
     } else {
       this.offlinePlayerItems.put(playerName, items);
     }

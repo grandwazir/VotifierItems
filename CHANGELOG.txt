@@ -1,0 +1,4 @@
+Changelog for VotifierItems (v1.0.0-SNAPSHOT)
+
+2012-08-07 06:23:26 +0100    fix giving players items more than once (James Richardson)
+2012-08-07 06:22:37 +0100    inital commit (James Richardson)
